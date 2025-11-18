@@ -1,0 +1,17 @@
+---
+title: "Photography"
+---
+
+::: {layout-ncol=2}
+
+![](gandalf_image_1.jpg)
+2023
+
+![](gandalf_image_2.jpg)
+2024
+
+![](gandalf_image_3.jpg)
+2025
+
+:::
+

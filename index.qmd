@@ -1,0 +1,40 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: Google scholar
+      text: Google scholar
+      href: https://scholar.google.com/citations?user=ZqzT1c8AAAAJ&hl=en
+    - icon: ORCID
+      text: ORCID
+      href: https://orcid.org/my-orcid?orcid=0000-0003-4404-2037
+    - icon: github
+      text: Github
+      href: https://github.com/Sadia187/sadia_ahmed.git
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sadia-ahmed-34725a382/
+    - icon: envelope
+      text: Email
+      href: "mailto:sxa1195@case.edu"
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I’m Sadia Ahmed, a microbiologist fascinated by the hidden world of microbes and their impact on human health. My research focuses on probiotics, postbiotics, and their potential for improving gut health.
+
+I’ve had the opportunity to work at the National Institute for Biotechnology and Genetic Engineering (NIBGE) in Pakistan and at Case Western Reserve University (CWRU) in the U.S., exploring the development, safety, and therapeutic effects of probiotics in Inflammatory bowel disease.
+
+On this site, you’ll find my publications, ongoing projects, and collaborations.. Please feel free to [contact me](mailto:sxa1195@case.edu) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+

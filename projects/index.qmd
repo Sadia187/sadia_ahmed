@@ -1,0 +1,22 @@
+---
+title: Projects
+---
+
+## Crohn's Disease and Probiotic Intervention
+
+Crohn's disease (CD) is a chronic inflammatory bowel disease affecting all segments of the digestive tract, with the ileum being the most severely inflamed region. Current treatments mainly focus on suppressing inflammation, but severe cases often require surgery. Alterations in the gut microbiome are strongly linked to CD, especially the presence of bacteria within cavitating fistulous microlesions (CavFT) in the gut wall, which exacerbate inflammation and tissue damage.
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%;
+object-fit: contain" onclick="window.open('https://github.com/Sadia187/Sadia-431-Lab-x', '_blank');"/>
+
+<a href="https://github.com/Sadia187/Sadia-431-Lab-x" target="_blank">GitHub Project</a><br>
+----
+
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://github.com/Sadia187/Sadia-431-Lab-x', '_blank');"/>
+
+<a href="https://github.com/Sadia187/Sadia-431-Lab-x" target="_blank">GitHub Project</a><br>
+
+To explore microbiome-targeted therapeutic approaches, our study investigates the potential of food-derived lactic acid bacteria (LAB) probiotics—specifically bile-resistant Pediococcus and Enterococcus strains—to mitigate CavFT-associated bacterial colonization and inflammation in a spontaneous CD-like ileitis mouse model (SAMP1/YitFc, SAMP) and in healthy control mice (C57BL/6J, B6). We evaluate both microbial and histopathological outcomes to assess probiotic efficacy in modulating disease severity.
+
+
