@@ -4,7 +4,7 @@
 website:
   title: "Sadia"                                # Your name
   description: "Microbiologist"   # A brief slogan (optional)
-  image: img/my_image.jpg
+  image: img/my_image.JPG
   
   favicon: img/favicon.png
   
