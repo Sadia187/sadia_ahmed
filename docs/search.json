@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
-    "section": "",
-    "text": "2023\n\n\n 2024\n\n\n\n\n 2025"
-  },
-  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
     "text": "Crohn’s disease (CD) is a chronic inflammatory bowel disease affecting all segments of the digestive tract, with the ileum being the most severely inflamed region. Current treatments mainly focus on suppressing inflammation, but severe cases often require surgery. Alterations in the gut microbiome are strongly linked to CD, especially the presence of bacteria within cavitating fistulous microlesions (CavFT) in the gut wall, which exacerbate inflammation and tissue damage."
-  },
-  {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my website!",
-    "section": "",
-    "text": "Google scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am a microbiologist specializing in probiotics, postbiotics, and their role in human health. I have a strong foundation in microbial biotechnology as well as inflammatory and immune-related diseases through my academic training and research experiences.\nI have worked at the National Institute for Biotechnology and Genetic Engineering (NIBGE) in Pakistan and am currently part of the Department of Dermatology at Case Western Reserve University. During my PhD, I investigated the therapeutic effects of probiotics in inflammatory bowel disease, focusing on their safety, functional mechanisms, and ability to modulate host immunity.\nMy current research explores host–microbe interactions with an emphasis on the immunomodulatory potential of probiotics and their application in antifungal drug development. I am particularly interested in identifying microbe-derived molecules that can influence immune responses and contribute to novel therapeutic strategies.\nMy professional goal is to advance innovative microbiome-based approaches that improve health outcomes and support those living with chronic inflammatory conditions. On this site, you’ll find my publications. Please feel free to contact me if you have any questions or would like to discuss potential projects.\n\nView the tutorial for this template (+ download link)"
   },
   {
     "objectID": "projects/index.html#crohns-disease-and-probiotic-intervention",
@@ -54,5 +19,26 @@
     "title": "Projects",
     "section": "GitHub Project",
     "text": "GitHub Project\n\nGitHub Project\nTo explore microbiome-targeted therapeutic approaches, our study investigates the potential of food-derived lactic acid bacteria (LAB) probiotics—specifically bile-resistant Pediococcus and Enterococcus strains—to mitigate CavFT-associated bacterial colonization and inflammation in a spontaneous CD-like ileitis mouse model (SAMP1/YitFc, SAMP) and in healthy control mice (C57BL/6J, B6). We evaluate both microbial and histopathological outcomes to assess probiotic efficacy in modulating disease severity."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Google scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am a microbiologist specializing in probiotics, postbiotics, and their role in human health. I have a strong foundation in microbial biotechnology as well as inflammatory and immune-related diseases through my academic training and research experiences.\nI have worked at the National Institute for Biotechnology and Genetic Engineering (NIBGE) in Pakistan and am currently part of the Department of Dermatology at Case Western Reserve University. During my PhD, I investigated the therapeutic effects of probiotics in inflammatory bowel disease, focusing on their safety, functional mechanisms, and ability to modulate host immunity.\nMy current research explores host–microbe interactions with an emphasis on the immunomodulatory potential of probiotics and their application in antifungal drug development. I am particularly interested in identifying microbe-derived molecules that can influence immune responses and contribute to novel therapeutic strategies.\nMy professional goal is to advance innovative microbiome-based approaches that improve health outcomes and support those living with chronic inflammatory conditions. On this site, you’ll find my publications. Please feel free to contact me if you have any questions or would like to discuss potential projects.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "2023\n\n\n 2024\n\n\n\n\n 2025"
   }
 ]
